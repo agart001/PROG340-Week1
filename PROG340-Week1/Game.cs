@@ -54,7 +54,7 @@ namespace PROG340_Week1
                     { 
                         "Left.", 
                         "Middle.", 
-                        "Right." 
+                        "Right."
                     },
                     Responses = new string[] 
                     { 
